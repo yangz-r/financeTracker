@@ -37,4 +37,4 @@ Also contains great functionality such as graphical analysis (a simple pie chart
 
 
 
-Done most of the coding, except Pie Chart portion (done some bug fixing) cause is a group assingment....1
+Done most of the coding, except Pie Chart portion (done some bug fixing)
